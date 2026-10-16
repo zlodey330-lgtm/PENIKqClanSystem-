@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "friendlist",
+  "version": "${version}",
+  "name": "Friend List",
+  "description": "Client-side friend list: highlighted friends that you can't hit.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.friendlist.FriendListClient"]
+  },
+  "mixins": ["friendlist.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

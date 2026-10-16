@@ -1,0 +1,9 @@
+{
+  "key.friendlist.open": "Open friends menu",
+  "category.friendlist": "Friend List",
+  "gui.friendlist.title": "Friends",
+  "gui.friendlist.add": "Add",
+  "gui.friendlist.hint": "Enter a nickname",
+  "gui.friendlist.empty": "No friends yet",
+  "gui.friendlist.remove": "x"
+}

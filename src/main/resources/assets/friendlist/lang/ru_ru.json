@@ -1,0 +1,9 @@
+{
+  "key.friendlist.open": "Открыть меню друзей",
+  "category.friendlist": "Friend List",
+  "gui.friendlist.title": "Друзья",
+  "gui.friendlist.add": "Добавить",
+  "gui.friendlist.hint": "Введите ник",
+  "gui.friendlist.empty": "Друзей пока нет",
+  "gui.friendlist.remove": "x"
+}
