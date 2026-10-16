@@ -5,5 +5,6 @@
   "gui.friendlist.add": "Добавить",
   "gui.friendlist.hint": "Введите ник",
   "gui.friendlist.empty": "Друзей пока нет",
-  "gui.friendlist.remove": "x"
+  "gui.friendlist.remove": "x",
+  "gui.friendlist.color": "Цвет брони (HEX)"
 }
